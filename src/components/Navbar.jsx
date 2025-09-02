@@ -33,7 +33,7 @@ export const Navbar = () => {
             )}
         >
         
-            <div className="container flex items-center justify-between">
+            <div className="container flex items-center justify-between max-w-5xl mx-auto px-4">
                 <a className="text-xl font-bold text-primary flex items-center"
                     href="#hero"
                 >
