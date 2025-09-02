@@ -1,12 +1,37 @@
-# React + Vite
+# Manoj R Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
 
-Currently, two official plugins are available:
+This portfolio showcases my projects, skills, and contact information. Built using **React**, **Tailwind CSS**, and **Vite**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- About Me section
+- Projects showcase
+- Contact form (EmailJS integrated)
+- Responsive design
+- Dark/Light mode support
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React 19
+- Tailwind CSS
+- Vite
+- EmailJS for contact form
+- Lucide Icons
+
+## Live Demo
+
+[View Live Portfolio](https://your-vercel-link.vercel.app)
+
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/portfolio.git
+
+Install dependencies:
+npm install
+
+Start development server:
+npm run dev
