@@ -3,9 +3,16 @@ import { ArrowDown } from "lucide-react";
 
 export const HeroSection = () => {
     return (
-        <section id="hero" className="relative min-h-screen flex fles-col items-center justify-center px-4">
+        <section id="hero" className="relative min-h-screen flex fles-col items-center justify-center px-4 max-w-5xl mx-auto px-4">
             <div className="container max-w-4x; mx-auto text-center z-10 text-center max-w-3xl mx-auto">
                 <div className="space-y-6">
+
+                    <img
+                        src="/images/manoj.jpg"  // replace with your image path
+                        alt="Manoj R"
+                        className="w-38 h-38 rounded-full mx-auto border-4 border-primary shadow-lg"
+                    />
+
                     <h1 className="text-4xl md:text-4xl font-bold tracking-tight">
                         <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
                         <span className="text-primary opacity-0 animate-fade-in-delay-1"> Manoj</span>
