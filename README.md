@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website!  
 
-This portfolio showcases my projects, skills, and contact information. Built using **React**, **Tailwind CSS**, and **Vite**.
+This portfolio showcases my projects, skills, certificates, and contact information. Built using **React**, **Tailwind CSS**, and **Vite**.
 
 ## Features
 
